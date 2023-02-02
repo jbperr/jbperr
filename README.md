@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jbperr
-- 👀 I’m interested in Python and Data Visualization, especially involving geographic data.
-- 🌱 I’m currently learning JavaScript and HTML.
-- 📫 How to reach me: [website](https://www.benperry.org)
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 📫 How to reach me: 
 
 <!---
 jbperr/jbperr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
